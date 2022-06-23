@@ -1,6 +1,6 @@
 # About this project
-
-
+## Documentación Postman
+[Ver documentación de la API](https://documenter.getpostman.com/view/13362314/UzBqnjhu)
 ## ¿Qué dependencias necesito?
 
 [Ver dependencias requeridas](./dependencias)
